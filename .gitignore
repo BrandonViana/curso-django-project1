@@ -119,6 +119,8 @@ GitHub.sublime-settings
 __pycache__/
 *.pyc
 __localcode
+.venv
+.env
 venv
 env
 .DS_Store
